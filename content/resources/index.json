@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "title": "Prisma",
+  "description": "ORM de próxima geração para Node.js e TypeScript.",
+  "category": "Bibliotecas",
+  "stack": ["Node.js", "TypeScript"],
+  "tags": ["orm", "database"],
+  "url": "https://prisma.io"
+}
